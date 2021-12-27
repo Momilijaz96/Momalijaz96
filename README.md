@@ -1,4 +1,4 @@
-<img src="ProfileCover.png" />
+<img src="github_cover.png" />
 
 <h1>Hey! I am Momal Ijaz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></a></h1>
 <img align='right' src="my_image.png" width="230" />
