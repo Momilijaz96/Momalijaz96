@@ -1,6 +1,6 @@
-<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+<img src="linkedin_banner.png" />
 
-<h1>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Momal Ijaz </a></h1>
+<h1>Hey! I am Momal Ijaz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></a></h1>
 <img align='right' src="my_image.png" width="230" />
 
 <a href="https://www.linkedin.com/in/momal-ijaz/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
