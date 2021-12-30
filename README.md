@@ -16,7 +16,7 @@
  * I love to learn and share it with community 🌸
 
 <details>
-<summary>Computer Vision 👁️ </summary>
+ <summary> <b>Computer Vision</b> 👁️ </summary>
 <ul>
   <li><a href="https://github.com/Momilijaz96/Face-DTR">Face-Detection-Recognition-Tracking</a></li>
   <li><a href="https://github.com/Momilijaz96/LPN-LightWeightPoseNetwork-">LightWeight-Human-Pose-Estimator</a></li>
