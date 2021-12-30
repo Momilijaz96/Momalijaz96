@@ -10,7 +10,7 @@
 
 <h3> What I do? 👩‍💻 </h3>
  
- * I like to work across DataScience's sub-domains including Computer Vision, Deep Learning and NLP.
+ * I am a data scientist.
  * I am obsessed with solving DSA Problems in my free time.
  * I love to pass on my learnings.
 
@@ -43,6 +43,14 @@
   <li>Aspect Based Sentiment Analysis with BERT</li>
   <li>Bias Anlaysis in Researcer's hiring across CS departments of US Ivy leagues</li>
   <li>Cab booking chatbot for telephony servers </li>
+  <li>More projects coming soon...🚀</li>
+</ul>
+</details>
+<details>
+<summary> Data Structures and Algorithms</summary>
+<ul>
+  <li><a href="https://github.com/Momilijaz96/DSA-in-Python3">DataStructures-in-Python3</a></li>
+  <li><a href="https://github.com/Momilijaz96/LeetCode-technical-must-do">LeetCode-Technical-Must-Do</a></li>
   <li>More projects coming soon...🚀</li>
 </ul>
 </details>
