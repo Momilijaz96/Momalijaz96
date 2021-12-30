@@ -56,10 +56,6 @@
 </details>
 
 [![Momal's GitHub stats](https://github-readme-stats.vercel.app/api?username=momilijaz96)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://github.com/momilijaz96/momilijaz96/blob/master/generated/overview.svg)
-![](https://github.com/momilijaz96/momilijaz96/blob/master/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momilijaz96)](https://github.com/anuraghazra/github-readme-stats)
 
 
