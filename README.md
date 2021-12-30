@@ -56,6 +56,5 @@
 </details>
 
 [![Momal's GitHub stats](https://github-readme-stats.vercel.app/api?username=momilijaz96)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momilijaz96)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github.com/momilijaz96/github-stats/blob/master/generated/overview.svg)
 
