@@ -55,5 +55,4 @@
 </ul>
 </details>
 
-[![Momal's GitHub stats](https://github-readme-stats.vercel.app/api?username=momilijaz96)](https://github.com/anuraghazra/github-readme-stats)
-![Momal's GitHub stats](https://github-readme-stats.vercel.app/api?username=momilijaz96&show_icons=true)
+[![Momal's GitHub stats](https://github-readme-stats.vercel.app/api?username=momilijaz96&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
