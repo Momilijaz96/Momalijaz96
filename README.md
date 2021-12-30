@@ -61,9 +61,9 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/ashutosh1919/ashutosh1919/blob/master/generated/overview.svg)
-![](https://github.com/ashutosh1919/ashutosh1919/blob/master/generated/languages.svg)
+![](https://github.com/momilijaz96/momilijaz96/blob/master/generated/overview.svg)
+![](https://github.com/momilijaz96/momilijaz96/blob/master/generated/languages.svg)
 
 </a>
-<!-- [![Momal Ijaz's Github Stats](https://github-readme-stats.vercel.app/api?username=momilijaz96&show_icons=true&count_private=true)](https://github.com/mmoilijaz96/github-readme-stats)   -->
+<!-- [![Momal Ijaz's Github Stats](https://github-readme-stats.vercel.app/api?username=momilijaz96&show_icons=true&count_private=true)](https://github.com/momilijaz96/github-readme-stats)   -->
 
