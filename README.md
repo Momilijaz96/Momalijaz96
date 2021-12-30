@@ -10,7 +10,7 @@
 
 <h3> What I do? 👩‍💻 </h3>
  
- * I am an AI consultant at InfoCabs,UK. 
+ * I am an AI consultant at <a href='https://www.infocabs.co.uk/'>InfoCabs,UK</a>. 
  * I am also working on an independent research at <a href='https://www.crcv.ucf.edu/'>CRCV-lab@UCF</a>.
  * I am obsessed with solving DSA Problems in my free time.
  * I love to learn and share it with community 🌸
