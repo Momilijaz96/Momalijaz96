@@ -55,15 +55,5 @@
 </ul>
 </details>
 
-
-![Ashutosh's Github Profile Views](https://komarev.com/ghpvc/?username=ashutosh1919&color=blueviolet)  
-
-
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://github.com/momilijaz96/momilijaz96/blob/master/generated/overview.svg)
-![](https://github.com/momilijaz96/momilijaz96/blob/master/generated/languages.svg)
-
-</a>
-<!-- [![Momal Ijaz's Github Stats](https://github-readme-stats.vercel.app/api?username=momilijaz96&show_icons=true&count_private=true)](https://github.com/momilijaz96/github-readme-stats)   -->
+[![Momal's GitHub stats](https://github-readme-stats.vercel.app/api?username=momilijaz96)](https://github.com/anuraghazra/github-readme-stats)
 
