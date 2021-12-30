@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary> Deep Learning 🔥</summary>
+ <summary><b> Deep Learning</b> 🔥</summary>
 <ul>
   <li><a href="https://github.com/Momilijaz96/AlphaFold-V1-PyTorch">Protien-Folding-Prediction-AlphaFold-V1-Pytorch</a></li>
   <li><a href="https://github.com/Momilijaz96/FC-Convolution-AutoEncoder">AutoEncoders</a></li>
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-<summary> Natural Language Processing 🙊</summary>
+ <summary><b> Natural Language Processing </b>🙊</summary>
 <ul>
   <li>Aspect Based Sentiment Analysis with BERT</li>
   <li>Bias Anlaysis in Researcer's hiring across CS departments of US Ivy leagues</li>
@@ -48,7 +48,7 @@
 </ul>
 </details>
 <details>
-<summary> Data Structures and Algorithms ⚽</summary>
+ <summary><b> Data Structures and Algorithms</b> ⚽</summary>
 <ul>
   <li><a href="https://github.com/Momilijaz96/DSA-in-Python3">DataStructures-in-Python3</a></li>
   <li><a href="https://github.com/Momilijaz96/LeetCode-technical-must-do">LeetCode-Technical-Must-Do</a></li>
