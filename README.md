@@ -10,7 +10,8 @@
 
 <h3> What I do? 👩‍💻 </h3>
  
- * I am a data scientist.
+ * I am an AI consultant at InfoCabs,UK. 
+ * I am working on an independent research at <a href='https://www.crcv.ucf.edu/'>CRCV-lab@UCF</a>.
  * I am obsessed with solving DSA Problems in my free time.
  * I love to pass on my learnings.
 
