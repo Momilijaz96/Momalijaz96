@@ -22,7 +22,7 @@
   <li><a href="https://github.com/Momilijaz96/LPN-LightWeightPoseNetwork-">LightWeight-Human-Pose-Estimator</a></li>
   <li><a href="https://github.com/Momilijaz96/Fall-Detection/tree/main-">Fall-Detection</a></li>
   <li><a href="https://github.com/Momilijaz96/CannyEdgeDetection">CannyEdgeDetection</a></li>
-  <li> road and lane Marking detection using VPGNet </li>
+  <li><a href="https://github.com/Momilijaz96/Road-And-LaneMarking-Detection">Road-And-LaneMarking-Detection</a></li>
   <li>More projects coming soon...🚀</li>
 </ul>
 </details>
