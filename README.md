@@ -22,7 +22,7 @@
   <li><a href="https://github.com/Momilijaz96/Fall-Detection/tree/main-">Fall-Detection</a></li>
   <li><a href="https://github.com/Momilijaz96/CannyEdgeDetection">CannyEdgeDetection</a></li>
   <li> road and lane Marking detection using VPGNet </li>
-  <li>More projects coming soon...</li>
+  <li>More projects coming soon...🚀</li>
 </ul>
 </details>
 
@@ -33,16 +33,16 @@
   <li><a href="https://github.com/Momilijaz96/FC-Convolution-AutoEncoder">AutoEncoders</a></li>
   <li><a href="https://github.com/Momilijaz96/PyTorch-Model-Architecture-Tuning">PyTorch-Models-Architecture-Tuning</a></li>
   <li>3D Fashion synthesis using cyclic GANs </li>
-  <li>More projects coming soon...</li>
+  <li>More projects coming soon...🚀</li>
 </ul>
 </details>
 
 <details>
 <summary> Natural Language Processing 🙊</summary>
 <ul>
-  <li> Aspect Based Sentiment Analysis with BERT</li>
-  <li> Bias Anlaysis in Researcer's hiring across CS departments of US Ivy leagues</li>
-  <li> Cab booking chatbot for telephony servers </li>
-  <li> More projcets coming soon...</li>
+  <li>Aspect Based Sentiment Analysis with BERT</li>
+  <li>Bias Anlaysis in Researcer's hiring across CS departments of US Ivy leagues</li>
+  <li>Cab booking chatbot for telephony servers </li>
+  <li>More projects coming soon...🚀</li>
 </ul>
 </details>
