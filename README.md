@@ -11,9 +11,9 @@
 <h3> What I do? 👩‍💻 </h3>
  
  * I am an AI consultant at InfoCabs,UK. 
- * I am working on an independent research at <a href='https://www.crcv.ucf.edu/'>CRCV-lab@UCF</a>.
+ * I am also working on an independent research at <a href='https://www.crcv.ucf.edu/'>CRCV-lab@UCF</a>.
  * I am obsessed with solving DSA Problems in my free time.
- * I love to pass on my learnings.
+ * I love to learn and share it with community 🌸
 
 <details>
 <summary>Computer Vision 👁️ </summary>
