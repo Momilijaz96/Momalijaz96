@@ -16,7 +16,7 @@ I am a data scientist and like to work across it's sub-domains including Deep Le
   <li><a href="https://github.com/Momilijaz96/Face-DTR">Face-Detection-Recognition-Tracking</a></li>
   <li><a href="https://github.com/Momilijaz96/LPN-LightWeightPoseNetwork-">LightWeight-Human-Pose-Estimator</a></li>
   <li><a href="https://github.com/Momilijaz96/FC-Convolution-AutoEncoder">AutoEncoders</a></li>
-  <li><a href="https://github.com/Momilijaz96/CannyEdgeDetection">CannyEdges-From-Scratch</a></li>
+  <li><a href="https://github.com/Momilijaz96/CannyEdgeDetection">CannyEdgeDetection</a></li>
   <li>More projcets coming soon...</li>
 </ul>
 </details>
