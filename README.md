@@ -41,9 +41,9 @@
 <details>
  <summary><b> Natural Language Processing </b>🙊</summary>
 <ul>
+   <li><a href='https://github.com/MohsinTariq10/techbot-demo'>Cab booking chatbot for telephony servers</a></li>
   <li>Aspect Based Sentiment Analysis with BERT</li>
   <li>Bias Anlaysis in Researcer's hiring across CS departments of US Ivy leagues</li>
-  <li><a href='https://github.com/MohsinTariq10/techbot-demo'>Cab booking chatbot for telephony servers</a></li>
   <li>More projects coming soon...🚀</li>
 </ul>
 </details>
