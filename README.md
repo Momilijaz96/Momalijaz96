@@ -9,16 +9,14 @@
 <a href="https://twitter.com/IjazMomal"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
 
 <h3> What I do? 👩‍💻 </h3>
+I am a data scientist and like to work across it's sub-domains including Deep Learning, Computer Vision and Natural Language Processing.
 <details>
-<summary>Data Scientist 📊</summary>
+<summary>Computer Vision 👁️ </summary>
 <ul>
-  <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
-  <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
-  <li><a href="https://github.com/ashutosh1919/Stock-Prediction-using-LSTM">Stock-Prediction-using-LSTM</a></li>
-  <li><a href="https://github.com/ashutosh1919/bert_classifier">bert-classifier</a></li>
-  <li><a href="https://github.com/ashutosh1919/docker-ml-tutorial">docker-ml-tutorial</li>
-  <li><a href="https://github.com/ashutosh1919/FaceInterpolation">face-interpolation</a></li>
-  <li><a href="https://github.com/ashutosh1919/NQA_tf2">natural-question-answer-ai</a></li>
-  <li>Many more on and out of Github...</li>
+  <li><a href="https://github.com/Momilijaz96/Face-DTR">Face-Detection-Recognition-Tracking</a></li>
+  <li><a href="https://github.com/Momilijaz96/LPN-LightWeightPoseNetwork-">LightWeight-Human-Pose-Estimator</a></li>
+  <li><a href="https://github.com/Momilijaz96/FC-Convolution-AutoEncoder">AutoEncoders</a></li>
+  <li><a href="https://github.com/Momilijaz96/CannyEdgeDetection">CannyEdges-From-Scratch</a></li>
+  <li>More projcets coming soon...</li>
 </ul>
 </details>
