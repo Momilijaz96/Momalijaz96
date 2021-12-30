@@ -47,7 +47,7 @@
 </ul>
 </details>
 <details>
-<summary> Data Structures and Algorithms</summary>
+<summary> Data Structures and Algorithms ⚽</summary>
 <ul>
   <li><a href="https://github.com/Momilijaz96/DSA-in-Python3">DataStructures-in-Python3</a></li>
   <li><a href="https://github.com/Momilijaz96/LeetCode-technical-must-do">LeetCode-Technical-Must-Do</a></li>
