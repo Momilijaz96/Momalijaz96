@@ -13,7 +13,7 @@
  * I am an AI consultant at <a href='https://www.infocabs.co.uk/'>InfoCabs,UK</a>. 
  * I am also working on an independent research at <a href='https://www.crcv.ucf.edu/'>CRCV-lab@UCF</a>.
  * I am obsessed with solving DSA Problems in my free time.
- * I love to learn and share it with community 🌸
+ * I love to learn and share it with community. Check out my medium stories on AI-Guys Medium Publication! 🌸
 
 <details>
  <summary> <b>Computer Vision</b> 👁️ </summary>
@@ -53,6 +53,15 @@
   <li><a href="https://github.com/Momilijaz96/DSA-in-Python3">DataStructures-in-Python3</a></li>
   <li><a href="https://github.com/Momilijaz96/LeetCode-technical-must-do">LeetCode-Technical-Must-Do</a></li>
   <li>More projects coming soon...🚀</li>
+</ul>
+</details>
+
+<details>
+ <summary><b> Medium Stories</b> 🌸</summary>
+<ul>
+  <li><a href="https://medium.com/aiguys/vit-an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale-iclr21-dd5c1d071045">ViT - Vision Transformer,Google Research, ICLR'21. </a></li>
+  <li><a href="https://medium.com/p/9b60aea3da07">DeiT-Data Efficient Image Transformer, Facebook AI, ICML'21</a></li>
+  <li>More articles coming soon...🚀</li>
 </ul>
 </details>
 
