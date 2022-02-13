@@ -62,6 +62,7 @@
 <ul>
   <li><a href="https://medium.com/aiguys/vit-an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale-iclr21-dd5c1d071045">ViT - Vision Transformer,Google Research, ICLR'21. </a></li>
   <li><a href="https://medium.com/p/9b60aea3da07">DeiT-Data Efficient Image Transformer, Facebook AI, ICML'21</a></li>
+ <li><a href=" https://medium.com/aiguys/swin-transformer-hierarchical-vision-transformer-using-shifted-window-part-i-5dc3fe7ae774">SWIN Transformer - Microsoft Research Asia</a></li>
   <li>More articles coming soon...🚀</li>
 </ul>
 </details>
