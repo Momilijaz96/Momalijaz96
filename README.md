@@ -53,6 +53,7 @@
   <li><a href="https://github.com/Momilijaz96/DSA-in-Python3">DataStructures-in-Python3</a></li>
   <li><a href="https://github.com/Momilijaz96/LeetCode-technical-must-do">LeetCode-Technical-Must-Do</a></li>
   <li><a href="https://github.com/Momilijaz96/Striver-SDE-Sheet">Striver-SDE Sheet</a></li>
+  <li><a href="https://github.com/Momilijaz96/Graphs-DSA">Graphs</a></li>
   <li>More projects coming soon...🚀</li>
 </ul>
 </details>
