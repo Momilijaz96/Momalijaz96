@@ -18,6 +18,8 @@
 <details>
  <summary> <b>Computer Vision</b> 👁️ </summary>
 <ul>
+ 
+  <li><a href="https://github.com/Momilijaz96/MMT_for_NCRC">Multimodal Transformer for nurse Activity Recognition (Published in CVPM2022 - CVPRW)</a></li>
   <li><a href="https://github.com/Momilijaz96/Face-DTR">Face-Detection-Recognition-Tracking</a></li>
   <li><a href="https://github.com/Momilijaz96/LPN-LightWeightPoseNetwork-">LightWeight-Human-Pose-Estimator</a></li>
   <li><a href="https://github.com/Momilijaz96/Fall-Detection">Fall-Detection</a></li>
