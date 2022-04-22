@@ -68,7 +68,7 @@
  <li><a href="https://medium.com/aiguys/swin-transformer-hierarchical-vision-transformer-using-shifted-window-part-i-5dc3fe7ae774">SWIN Transformer: Microsoft Research-Asia Part I</a></li>
  <li><a href="https://medium.com/aiguys/swin-transformer-hierarchical-vision-transformer-using-shifted-window-part-ii-3ecf40a3a5ce">SWIN Transformer: Microsoft Research-Asia Part II</a></li>
  <li><a href="https://medium.com/aiguys/vivit-video-vision-transformer-648a5fff68a4">ViViT - Video Vision Transformer</a></li> 
- <li><a href=" https://medium.com/@momilijaz/a-convnet-for-the-2020s-or-2561c9e946e1">ConvNeXt for 2020s</a></li>
+ <li><a href="https://medium.com/@momilijaz/a-convnet-for-the-2020s-or-2561c9e946e1">ConvNeXt for 2020s</a></li>
 
   <li>More articles coming soon...🚀</li>
 </ul>
