@@ -1,6 +1,6 @@
 <img src="github_cover.png" />
 
-<h1>Hey! I am Momal Ijaz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px"></a></h1>
+<h1>Hey! I am Momal Ijaz</h1>
 
 <a href="https://www.linkedin.com/in/momal-ijaz/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/Momilijaz96"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
