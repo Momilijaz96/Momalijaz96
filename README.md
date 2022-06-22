@@ -1,6 +1,6 @@
 <img src="github_cover.png" />
 
-<h1>Hey! I am Momal Ijaz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></a></h1>
+<h1>Hey! I am Momal Ijaz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px"></a></h1>
 
 <a href="https://www.linkedin.com/in/momal-ijaz/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/Momilijaz96"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
@@ -54,8 +54,8 @@
 <ul>
   <li><a href="https://github.com/Momilijaz96/DSA-in-Python3">DataStructures-in-Python3</a></li>
   <li><a href="https://github.com/Momilijaz96/LeetCode-technical-must-do">LeetCode-Technical-Must-Do</a></li>
-  <li><a href="https://github.com/Momilijaz96/Striver-SDE-Sheet">Striver-SDE Sheet</a></li>
-  <li><a href="https://github.com/Momilijaz96/Graphs-DSA">Graphs</a></li>
+  <li><a href="https://github.com/Momilijaz96/Striver-SDE-Sheet">Arrays-Zero2Hero</a></li>
+  <li><a href="https://github.com/Momilijaz96/Graphs-DSA">Striver-Sumer-DSE-Sheet-Challenge-2022</a></li>
   <li>More projects coming soon...🚀</li>
 </ul>
 </details>
