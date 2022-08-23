@@ -55,7 +55,7 @@
   <li><a href="https://github.com/Momilijaz96/DSA-in-Python3">DataStructures-in-Python3</a></li>
   <li><a href="https://github.com/Momilijaz96/LeetCode-technical-must-do">LeetCode-Technical-Must-Do</a></li>
   <li><a href="https://github.com/Momilijaz96/Striver-SDE-Sheet">Arrays-Zero2Hero</a></li>
-  <li><a href="https://github.com/Momilijaz96/Graphs-DSA">Striver-Sumer-DSE-Sheet-Challenge-2022</a></li>
+  <li><a href="https://github.com/Momilijaz96/Graphs-DSA">Ultimate_DSA</a></li>
   <li>More projects coming soon...🚀</li>
 </ul>
 </details>
