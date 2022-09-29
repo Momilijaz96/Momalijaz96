@@ -72,7 +72,7 @@
  <li><a href="https://medium.com/aiguys/multiview-transformers-part-i-e0a46179295b">MultiView Transformer - CVPR2022 - Google Research- Part I</a></li>
  <li><a href="https://medium.com/@momilijaz/multiview-transformers-part-ii-f986c1085106">MultiView Transformer - CVPR2022 - Google Research - Part -II</a></li>
  <li><a href="https://medium.com/aiguys/docker-for-dummies-8e8edc8af0ea">Docker for Dummies Part I</a></li>
- <li><a href=" https://medium.com/aiguys/docker-for-dummies-part-ii-6a6f4ce77ef5">Docker for Dummies Part II</a></li>
+ <li><a href="https://medium.com/aiguys/docker-for-dummies-part-ii-6a6f4ce77ef5">Docker for Dummies Part II</a></li>
  <li><a href="https://medium.com/aiguys/googles-lamda-sentient-conspiracy-smart-open-ended-conv-chatbot-and-more-355ba78b87a1">Google's Lamda, Sentient consipiracy and more!</a></li>
 
 
