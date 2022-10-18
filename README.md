@@ -10,7 +10,7 @@
 
 <h3> What I do? 👩‍💻 </h3>
  
- * I am Founder of conversatinal AI startup <a href='http://www.learnn.ai/'>LearNN</a> and an AI consultant at <a href='https://www.infocabs.co.uk/'>InfoCabs,UK</a>. 
+ * I am Founder of conversatinal AI startup <a href='http://www.learnn.ai/'>LearNN</a> and an ML Engineer  at <a href='https://super.ai/'>Super.ai,Germany</a>. 
  * I am also working on an independent research at <a href='https://www.crcv.ucf.edu/'>CRCV-lab@UCF</a>.
  * I am obsessed with solving DSA Problems in my free time.
  * I love to learn and share it with community. Check out my medium stories on AI-Guys Medium Publication! 🌸
