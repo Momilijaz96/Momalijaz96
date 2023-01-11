@@ -75,6 +75,7 @@
  <li><a href="https://medium.com/aiguys/docker-for-dummies-part-ii-6a6f4ce77ef5">Docker for Dummies Part II</a></li>
  <li><a href="https://medium.com/@momilijaz/docker-for-dummies-part-iii-2e7e10241f4">Docker for Dummies Part III</a></li> 
  <li><a href="https://medium.com/aiguys/googles-lamda-sentient-conspiracy-smart-open-ended-conv-chatbot-and-more-355ba78b87a1">Google's Lamda, Sentient consipiracy and more!</a></li>
+ <li><a href= "https://medium.com/@momilijaz/3-awesome-ways-to-level-up-your-coding-game-with-chatgpt-8138d55b3ec8"> ChatGPt for coding </a></li>
 
 
  
