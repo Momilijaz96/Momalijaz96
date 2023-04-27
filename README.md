@@ -77,7 +77,7 @@
  <li><a href="https://medium.com/aiguys/googles-lamda-sentient-conspiracy-smart-open-ended-conv-chatbot-and-more-355ba78b87a1">Google's Lamda, Sentient consipiracy and more!</a></li>
  <li><a href= "https://medium.com/@momilijaz/3-awesome-ways-to-level-up-your-coding-game-with-chatgpt-8138d55b3ec8"> ChatGPt for coding </a></li>
  <li><a href="https://medium.com/@momilijaz/kubernetes-101-introduction-to-container-orchestration-b88e60c04ed2">Kubernetes101 - Part I - Intro to container orchestration</a></li>
- <li><a href="https://medium.com/@momilijaz/kubernetes-101-introduction-to-container-orchestration-ii-4aca3223fea6"></a>Kubernetes101  - Part II - Deploying your app to minikube cluster</li>
+ <li><a href="https://medium.com/@momilijaz/kubernetes-101-introduction-to-container-orchestration-ii-4aca3223fea6">Kubernetes101  - Part II - Deploying your app to minikube cluster</a></li>
 
  
  
